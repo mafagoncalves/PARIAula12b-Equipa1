@@ -2,7 +2,9 @@ Ruben Costa, 07-dez-2019,13:27
 
 
 git add.
+
 git commit -m "mensagem de commit"
+
 git push
 
 Steps for the class
