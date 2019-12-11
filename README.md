@@ -1,6 +1,6 @@
 Ruben Costa, 07-dez-2019,13:27
 
-
+bash
 git add.
 
 git commit -m "mensagem de commit"
