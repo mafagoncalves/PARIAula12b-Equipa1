@@ -1,11 +1,15 @@
 Ruben Costa, 07-dez-2019,13:27
 
 
+# How to send files to online repo 
 git add.
 
 git commit -m "mensagem de commit"
 
 git push
+
+# Compilation
+
 
 Steps for the class
 --------------------
